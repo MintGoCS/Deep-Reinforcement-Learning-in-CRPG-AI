@@ -1,5 +1,5 @@
-# NJZ-A-DRL-Model-in-CRPG-AI
-This project tries to combine Off-line RL, MARL, GNN, and PPO algorithms in a CRPG game(NJZ).   
+# MDHHH-A-DRL-Model-in-CRPG-AI
+This project tries to combine Off-line RL, MARL, GNN, and PPO algorithms in a CRPG game(MDHHH).   
 
 ## Keywords
 1. Unity, DRL(Deep Reinforcement Learning), MARL(Multi-Agent Reinforcement Learning), PPO
